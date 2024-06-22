@@ -1,6 +1,6 @@
 product:
-  productCode: 12356
-  productName: mobiless
+  productCode: 9999
+  productName: laptop
   category: electronics
-  price: 2000
+  price: 112000
   status: true    
