@@ -1,0 +1,6 @@
+product:
+  productCode: 12356
+  productName: mobiless
+  category: electronics
+  price: 2000
+  status: true    
